@@ -4,4 +4,4 @@ class Coupon < ActiveRecord::Base
     elf.coupon_code + " " + self.store
 
   end
-end  
+end
